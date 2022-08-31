@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Example Test",
+    "item": [
+      {
+        "title": "Cek Konektivitas",
+        "method": "GET",
+        "url": "Home/connect",
+        "header": [],
+        "body": [],
+        "expected": 200
+      }
+    ]
+  }
+]
